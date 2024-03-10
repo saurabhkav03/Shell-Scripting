@@ -9,9 +9,9 @@
 # Version: v1
 ######################################
 
-set -x # debug mode 
+set -x # debug mode: will list the command run in output
 set -e # exit script when there is an error
-set -o # pipefail
+set -o pipefail
 
 #set -exo # can use all 3 parameters but not recommended
 
