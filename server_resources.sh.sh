@@ -1,3 +1,13 @@
+################################
+##
+## Author: Saurabh Kaveri
+## Date: 21-04-2024
+## 
+## Version: v1
+## This script will collect all the server resources and store it in a text file
+################################
+
+
 #!/bin/bash
 
 # Paths to commands and files
